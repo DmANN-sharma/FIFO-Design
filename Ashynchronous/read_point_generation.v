@@ -55,3 +55,5 @@ end
     assign rd_addr = rd_bin[ADDR_SIZE-1:0];
 
 endmodule
+
+// This is a comment in asynchronous module
